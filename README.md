@@ -5,4 +5,4 @@ The file ends with CVAO, which means the model was trained on the Cape Verde Atm
 
 You can use keras.models.load_model(file) to load files for files in this repository.
 
-If you have any questions about these models, please contact chengyuhan@westlake.edu.cn.
+If you have any questions about these models, please contact chengyuhan@westlake.edu.cn or gongxianda@westlake.edu.cn.
